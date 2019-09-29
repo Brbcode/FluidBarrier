@@ -7,12 +7,8 @@
 modLoader="javafml" #mandatory
 # A version range to match for said mod loader - for regular FML @Mod it will be the forge version
 loaderVersion="[27,)" #mandatory (24 is current forge version)
-# A URL to refer people to when problems occur with this mod
-issueTrackerURL="http://my.issue.tracker/" #optional
-# A URL for the "homepage" for this mod, displayed in the mod UI
-displayURL="http://example.com/" #optional
-# A text field displayed in the mod UI
-credits="Thanks for this example mod goes to Java" #optional
+
+
 # A text field displayed in the mod UI
 authors="BrbCode" #optional
 # A list of mods - how many allowed here is determined by the individual mod loader
@@ -31,6 +27,10 @@ authors="BrbCode" #optional
     
     To get the block use the comand "give @a brbmods:fluid_barrier_block [quantity]"
     '''
+    # A URL to refer people to when problems occur with this mod
+	issueTrackerURL="https://github.com/Brbcode/FluidBarrier/issues" 
+	# A URL for the "homepage" for this mod, displayed in the mod UI
+	displayURL="https://github.com/Brbcode/FluidBarrier" 
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.brbmods]] #optional
