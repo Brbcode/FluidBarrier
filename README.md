@@ -2,7 +2,7 @@
 
 This mod add a new block to the game that allows the player to create barriers that only block fluids such as water and lava, and let the player go through them.
 
-[![Watch the video](https://img.youtube.com/vi/UMDqhf0QWAs/maxresdefault.jpg)](https://youtu.be/UMDqhf0QWAs)
+[![Watch the video](https://i.imgur.com/zw9EMoQ.png)](https://youtu.be/UMDqhf0QWAs)
 
 ## Getting Started
 First get the block using the comand <give @a brbmods:fluid_barrier_block [quantity]>
