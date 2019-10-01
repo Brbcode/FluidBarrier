@@ -17,7 +17,8 @@ Minecraft 1.14.4
 ### Prerequisites
 Minecraft forge [1.14.4]
 ### Installing
-#TODO
+Download the mod from [CurseForge - Fluid Barrier](https://www.curseforge.com/minecraft/mc-mods/fluid-barrier)
+And move the jar file to your minecraft mod folder.
 ## Authors
 
 * **Bruno García Trípoli** - *Original work* - [BrbCode](https://github.com/Brbcode)
